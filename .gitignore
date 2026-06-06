@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Models (don't commit)
+*.pt
+
+# Videos
+*.mp4
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
